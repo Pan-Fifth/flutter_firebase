@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813588835965",
+    "project_id": "code-camp-mobile",
+    "storage_bucket": "code-camp-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813588835965:android:42abafb176228cf3528b14",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xzYDrwyGc-q-Zakwx1w7BCjrQC_k-1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
